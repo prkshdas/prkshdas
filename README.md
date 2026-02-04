@@ -1,22 +1,136 @@
-<h1 align="center">Hi 👋, I'm Prakash</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prkshdas&label=Profile%20views&color=0e75b6&style=flat" alt="prkshdas" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prkshdas" alt="prkshdas" /></a> </p>
+<!-- ===== HEADER BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Hey%20There!%20I'm%20Prakash&fontSize=40&fontColor=ffffff"/>
 
-- 🌱 I’m currently learning **Industrial IoT, Edge AI, Machine learning**
+### Creative Developer • Embedded Explorer • Open Source
 
-- 📫 How to reach me **prkshhhdas@gmail.com**
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+digital+experiences+that+matter+✨;Turning+coffee+into+code;Hardware+%2B+Software+%3D+Magic"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prkshdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prkshdas" height="30" width="40" /></a>
+<!-- Badges -->
+<p>
+<img src="https://img.shields.io/badge/Profile_Views-1234-8b5cf6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Followers-42-ec4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Work-00c853?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prkshdas&show_icons=true&locale=en&layout=compact" alt="prkshdas" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkshdas&show_icons=true&locale=en" alt="prkshdas" /></p>
+## 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkshdas&" alt="prkshdas" /></p>
+<table>
+<tr>
+<td width="60%">
+
+🎨 **Creative Developer** passionate about beautiful systems  
+💡 Turning **coffee** into **firmware**  
+🌱 Exploring **Embedded + Edge AI**  
+🎯 Goal: Build tech that touches real life  
+⚡ I debug with printf and I’m proud  
+📫 Reach me: **prkshhhdas@gmail.com**
+
+</td>
+
+<td width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🎯 Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded_C-000000?style=for-the-badge"/>
+</p>
+
+### ⚡ Domains
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTOS-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART_I2C_SPI-ff69b4?style=for-the-badge"/>
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prkshdas&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prkshdas&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Embedded Scheduler
+> Custom task scheduler for ARM Cortex-M  
+- Context switching  
+- Timer based tasks  
+- Bare-metal architecture
+
+### 📡 UART Framework
+> PC ↔ MCU communication layer  
+- Command parser  
+- Debug console  
+- Protocol design
+
+---
+
+## 🎵 Now Coding With
+
+> 🎧 Lo-Fi Beats • Coffee • Late Nights
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prkshdas/prkshdas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prkshdas/prkshdas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prkshdas/prkshdas/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+<a href="mailto:prkshhhdas@gmail.com">
+<img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prkshdas">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### Made with ❤️ and a lot of ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+
+</div>
