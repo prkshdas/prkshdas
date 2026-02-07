@@ -13,14 +13,6 @@
 
 </div>
 
-
-
-
-
-
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -40,7 +32,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🤝 Let’s Connect
 
 <p>
@@ -53,4 +46,4 @@
 </a>
 </p>
 
----
+</div>
