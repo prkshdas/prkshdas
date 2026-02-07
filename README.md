@@ -8,24 +8,15 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+digital+experiences+that+matter+✨;Turning+coffee+into+code;Hardware+%2B+Software+%3D+Magic"/>
 
-<!-- Badges -->
-<p>
-<img src="https://img.shields.io/badge/Profile_Views-1234-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Followers-42-ec4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Available_for_Work-00c853?style=for-the-badge"/>
-</p>
-
 </div>
-
----
 
 ## 💫 About Me
 
 <table>
 <tr>
 <td width="60%">
-
-🎨 **Creative Developer** passionate about beautiful systems  
+  
+🎨 passionate about beautiful systems  
 💡 Turning **coffee** into **firmware**  
 🌱 Exploring **Embedded + Edge AI**  
 🎯 Goal: Build tech that touches real life  
@@ -70,34 +61,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prkshdas&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkshdas&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 Embedded Scheduler
-> Custom task scheduler for ARM Cortex-M  
-- Context switching  
-- Timer based tasks  
-- Bare-metal architecture
-
-### 📡 UART Framework
-> PC ↔ MCU communication layer  
-- Command parser  
-- Debug console  
-- Protocol design
-
----
-
-## 🎵 Now Coding With
-
-> 🎧 Lo-Fi Beats • Coffee • Late Nights
 
 ---
 
